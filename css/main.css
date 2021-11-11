@@ -23,7 +23,7 @@ section {
 
 .hover-box h2 {
   position: absolute;
-  bottom: 0;
+  bottom: -4em;
   width: 100%;
   padding: 1rem;
   margin: 0;
@@ -34,4 +34,5 @@ section {
 
 .hover-box img {
   filter: grayscale(100%);
+  width: 100%;
 }
